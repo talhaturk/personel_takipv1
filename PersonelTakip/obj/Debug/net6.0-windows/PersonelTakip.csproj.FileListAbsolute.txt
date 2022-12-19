@@ -1,0 +1,269 @@
+C:\Users\Talha\Desktop\Practice\Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\PersonelTakip.exe
+C:\Users\Talha\Desktop\Practice\Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\PersonelTakip.deps.json
+C:\Users\Talha\Desktop\Practice\Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\PersonelTakip.runtimeconfig.json
+C:\Users\Talha\Desktop\Practice\Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\PersonelTakip.dll
+C:\Users\Talha\Desktop\Practice\Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\PersonelTakip.pdb
+C:\Users\Talha\Desktop\Practice\Proje\PersonelTakip\PersonelTakip\obj\Debug\net6.0-windows\PersonelTakip.csproj.AssemblyReference.cache
+C:\Users\Talha\Desktop\Practice\Proje\PersonelTakip\PersonelTakip\obj\Debug\net6.0-windows\PersonelTakip.csproj.GenerateResource.cache
+C:\Users\Talha\Desktop\Practice\Proje\PersonelTakip\PersonelTakip\obj\Debug\net6.0-windows\PersonelTakip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Talha\Desktop\Practice\Proje\PersonelTakip\PersonelTakip\obj\Debug\net6.0-windows\PersonelTakip.AssemblyInfoInputs.cache
+C:\Users\Talha\Desktop\Practice\Proje\PersonelTakip\PersonelTakip\obj\Debug\net6.0-windows\PersonelTakip.AssemblyInfo.cs
+C:\Users\Talha\Desktop\Practice\Proje\PersonelTakip\PersonelTakip\obj\Debug\net6.0-windows\PersonelTakip.csproj.CoreCompileInputs.cache
+C:\Users\Talha\Desktop\Practice\Proje\PersonelTakip\PersonelTakip\obj\Debug\net6.0-windows\PersonelTakip.dll
+C:\Users\Talha\Desktop\Practice\Proje\PersonelTakip\PersonelTakip\obj\Debug\net6.0-windows\refint\PersonelTakip.dll
+C:\Users\Talha\Desktop\Practice\Proje\PersonelTakip\PersonelTakip\obj\Debug\net6.0-windows\PersonelTakip.pdb
+C:\Users\Talha\Desktop\Practice\Proje\PersonelTakip\PersonelTakip\obj\Debug\net6.0-windows\PersonelTakip.genruntimeconfig.cache
+C:\Users\Talha\Desktop\Practice\Proje\PersonelTakip\PersonelTakip\obj\Debug\net6.0-windows\ref\PersonelTakip.dll
+C:\Users\Talha\Desktop\Practice\Proje\PersonelTakip\PersonelTakip\obj\Debug\net6.0-windows\PersonelTakip.Login.resources
+C:\Users\Talha\Desktop\Practice\Proje\PersonelTakip\PersonelTakip\obj\Debug\net6.0-windows\PersonelTakip.MainMenu.resources
+C:\Users\Talha\Desktop\Practice\Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Talha\Desktop\Practice\Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Talha\Desktop\Practice\Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Talha\Desktop\Practice\Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Talha\Desktop\Practice\Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Talha\Desktop\Practice\Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Talha\Desktop\Practice\Proje\PersonelTakip\PersonelTakip\obj\Debug\net6.0-windows\PersonelTakip.csproj.CopyComplete
+C:\Users\Talha\Desktop\Practice\Proje\PersonelTakip\PersonelTakip\obj\Debug\net6.0-windows\PersonelTakip.Properties.Resources.resources
+C:\Users\Talha\Desktop\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\PersonelTakip.exe
+C:\Users\Talha\Desktop\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\PersonelTakip.deps.json
+C:\Users\Talha\Desktop\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\PersonelTakip.runtimeconfig.json
+C:\Users\Talha\Desktop\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\PersonelTakip.dll
+C:\Users\Talha\Desktop\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\PersonelTakip.pdb
+C:\Users\Talha\Desktop\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Talha\Desktop\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Talha\Desktop\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Talha\Desktop\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Talha\Desktop\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Talha\Desktop\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Talha\Desktop\PersonelTakip\PersonelTakip\obj\Debug\net6.0-windows\PersonelTakip.csproj.AssemblyReference.cache
+C:\Users\Talha\Desktop\PersonelTakip\PersonelTakip\obj\Debug\net6.0-windows\PersonelTakip.Login.resources
+C:\Users\Talha\Desktop\PersonelTakip\PersonelTakip\obj\Debug\net6.0-windows\PersonelTakip.MainMenu.resources
+C:\Users\Talha\Desktop\PersonelTakip\PersonelTakip\obj\Debug\net6.0-windows\PersonelTakip.Properties.Resources.resources
+C:\Users\Talha\Desktop\PersonelTakip\PersonelTakip\obj\Debug\net6.0-windows\PersonelTakip.csproj.GenerateResource.cache
+C:\Users\Talha\Desktop\PersonelTakip\PersonelTakip\obj\Debug\net6.0-windows\PersonelTakip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Talha\Desktop\PersonelTakip\PersonelTakip\obj\Debug\net6.0-windows\PersonelTakip.AssemblyInfoInputs.cache
+C:\Users\Talha\Desktop\PersonelTakip\PersonelTakip\obj\Debug\net6.0-windows\PersonelTakip.AssemblyInfo.cs
+C:\Users\Talha\Desktop\PersonelTakip\PersonelTakip\obj\Debug\net6.0-windows\PersonelTakip.csproj.CoreCompileInputs.cache
+C:\Users\Talha\Desktop\PersonelTakip\PersonelTakip\obj\Debug\net6.0-windows\PersonelTakip.csproj.CopyComplete
+C:\Users\Talha\Desktop\PersonelTakip\PersonelTakip\obj\Debug\net6.0-windows\PersonelTakip.dll
+C:\Users\Talha\Desktop\PersonelTakip\PersonelTakip\obj\Debug\net6.0-windows\refint\PersonelTakip.dll
+C:\Users\Talha\Desktop\PersonelTakip\PersonelTakip\obj\Debug\net6.0-windows\PersonelTakip.pdb
+C:\Users\Talha\Desktop\PersonelTakip\PersonelTakip\obj\Debug\net6.0-windows\PersonelTakip.genruntimeconfig.cache
+C:\Users\Talha\Desktop\PersonelTakip\PersonelTakip\obj\Debug\net6.0-windows\ref\PersonelTakip.dll
+C:\Users\Talha\Desktop\PersonelTakip\PersonelTakip\obj\Debug\net6.0-windows\PersonelTakip.ForgetPW.resources
+C:\Users\Talha\Desktop\PersonelTakip\PersonelTakip\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Talha\Desktop\PersonelTakip\PersonelTakip\obj\Debug\net6.0-windows\PersonelTakip.csproj.ResolveComReference.cache
+C:\Users\Talha\Desktop\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\Talha\Desktop\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\Talha\Desktop\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Talha\Desktop\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Talha\Desktop\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Talha\Desktop\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Talha\Desktop\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Talha\Desktop\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Talha\Desktop\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Talha\Desktop\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Talha\Desktop\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Talha\Desktop\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.SqlServer.Assessment.dll
+C:\Users\Talha\Desktop\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.SqlServer.Assessment.Types.dll
+C:\Users\Talha\Desktop\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.Data.Tools.Sql.BatchParser.dll
+C:\Users\Talha\Desktop\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\Talha\Desktop\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\Talha\Desktop\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.SqlServer.Dmf.dll
+C:\Users\Talha\Desktop\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.Assessment.dll
+C:\Users\Talha\Desktop\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.Collector.dll
+C:\Users\Talha\Desktop\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.CollectorEnum.dll
+C:\Users\Talha\Desktop\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.HadrData.dll
+C:\Users\Talha\Desktop\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.HadrModel.dll
+C:\Users\Talha\Desktop\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.RegisteredServers.dll
+C:\Users\Talha\Desktop\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\Talha\Desktop\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.SqlScriptPublish.dll
+C:\Users\Talha\Desktop\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.XEvent.dll
+C:\Users\Talha\Desktop\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.XEventDbScoped.dll
+C:\Users\Talha\Desktop\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.XEventDbScopedEnum.dll
+C:\Users\Talha\Desktop\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.XEventEnum.dll
+C:\Users\Talha\Desktop\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.SqlServer.PolicyEnum.dll
+C:\Users\Talha\Desktop\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\Talha\Desktop\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.SqlServer.Smo.Notebook.dll
+C:\Users\Talha\Desktop\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.SqlServer.Smo.dll
+C:\Users\Talha\Desktop\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\Talha\Desktop\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\Talha\Desktop\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.SqlServer.SqlWmiManagement.dll
+C:\Users\Talha\Desktop\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.SqlServer.WmiEnum.dll
+C:\Users\Talha\Desktop\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Talha\Desktop\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\Talha\Desktop\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Talha\Desktop\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\Talha\Desktop\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\Talha\Desktop\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Talha\Desktop\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Talha\Desktop\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Talha\Desktop\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Talha\Desktop\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Talha\Desktop\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Talha\Desktop\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Talha\Desktop\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\Talha\Desktop\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+C:\Users\Talha\Desktop\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Talha\Desktop\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\PersonelTakip.exe
+C:\Users\Talha\Desktop\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\PersonelTakip.deps.json
+C:\Users\Talha\Desktop\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\PersonelTakip.runtimeconfig.json
+C:\Users\Talha\Desktop\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\PersonelTakip.dll
+C:\Users\Talha\Desktop\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\PersonelTakip.pdb
+C:\Users\Talha\Desktop\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\Talha\Desktop\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\Talha\Desktop\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Talha\Desktop\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Talha\Desktop\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Talha\Desktop\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Talha\Desktop\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Talha\Desktop\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Talha\Desktop\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Talha\Desktop\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Talha\Desktop\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Talha\Desktop\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.SqlServer.Assessment.dll
+C:\Users\Talha\Desktop\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.SqlServer.Assessment.Types.dll
+C:\Users\Talha\Desktop\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.Data.Tools.Sql.BatchParser.dll
+C:\Users\Talha\Desktop\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\Talha\Desktop\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\Talha\Desktop\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.SqlServer.Dmf.dll
+C:\Users\Talha\Desktop\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.Assessment.dll
+C:\Users\Talha\Desktop\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.Collector.dll
+C:\Users\Talha\Desktop\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.CollectorEnum.dll
+C:\Users\Talha\Desktop\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.HadrData.dll
+C:\Users\Talha\Desktop\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.HadrModel.dll
+C:\Users\Talha\Desktop\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.RegisteredServers.dll
+C:\Users\Talha\Desktop\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\Talha\Desktop\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.SqlScriptPublish.dll
+C:\Users\Talha\Desktop\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.XEvent.dll
+C:\Users\Talha\Desktop\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.XEventDbScoped.dll
+C:\Users\Talha\Desktop\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.XEventDbScopedEnum.dll
+C:\Users\Talha\Desktop\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.XEventEnum.dll
+C:\Users\Talha\Desktop\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.SqlServer.PolicyEnum.dll
+C:\Users\Talha\Desktop\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\Talha\Desktop\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.SqlServer.Smo.Notebook.dll
+C:\Users\Talha\Desktop\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.SqlServer.Smo.dll
+C:\Users\Talha\Desktop\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\Talha\Desktop\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\Talha\Desktop\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.SqlServer.SqlWmiManagement.dll
+C:\Users\Talha\Desktop\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.SqlServer.WmiEnum.dll
+C:\Users\Talha\Desktop\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Talha\Desktop\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\Talha\Desktop\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Talha\Desktop\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Talha\Desktop\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\Talha\Desktop\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\Talha\Desktop\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Talha\Desktop\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Talha\Desktop\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Talha\Desktop\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Talha\Desktop\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Talha\Desktop\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Talha\Desktop\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Talha\Desktop\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Talha\Desktop\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Talha\Desktop\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Talha\Desktop\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\Talha\Desktop\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Talha\Desktop\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Talha\Desktop\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+C:\Users\Talha\Desktop\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Talha\Desktop\Staj Proje\PersonelTakip\PersonelTakip\obj\Debug\net6.0-windows\PersonelTakip.csproj.AssemblyReference.cache
+C:\Users\Talha\Desktop\Staj Proje\PersonelTakip\PersonelTakip\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Talha\Desktop\Staj Proje\PersonelTakip\PersonelTakip\obj\Debug\net6.0-windows\PersonelTakip.csproj.ResolveComReference.cache
+C:\Users\Talha\Desktop\Staj Proje\PersonelTakip\PersonelTakip\obj\Debug\net6.0-windows\PersonelTakip.ForgetPW.resources
+C:\Users\Talha\Desktop\Staj Proje\PersonelTakip\PersonelTakip\obj\Debug\net6.0-windows\PersonelTakip.Login.resources
+C:\Users\Talha\Desktop\Staj Proje\PersonelTakip\PersonelTakip\obj\Debug\net6.0-windows\PersonelTakip.MainMenu.resources
+C:\Users\Talha\Desktop\Staj Proje\PersonelTakip\PersonelTakip\obj\Debug\net6.0-windows\PersonelTakip.Properties.Resources.resources
+C:\Users\Talha\Desktop\Staj Proje\PersonelTakip\PersonelTakip\obj\Debug\net6.0-windows\PersonelTakip.csproj.GenerateResource.cache
+C:\Users\Talha\Desktop\Staj Proje\PersonelTakip\PersonelTakip\obj\Debug\net6.0-windows\PersonelTakip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Talha\Desktop\Staj Proje\PersonelTakip\PersonelTakip\obj\Debug\net6.0-windows\PersonelTakip.AssemblyInfoInputs.cache
+C:\Users\Talha\Desktop\Staj Proje\PersonelTakip\PersonelTakip\obj\Debug\net6.0-windows\PersonelTakip.AssemblyInfo.cs
+C:\Users\Talha\Desktop\Staj Proje\PersonelTakip\PersonelTakip\obj\Debug\net6.0-windows\PersonelTakip.csproj.CoreCompileInputs.cache
+C:\Users\Talha\Desktop\Staj Proje\PersonelTakip\PersonelTakip\obj\Debug\net6.0-windows\PersonelTakip.csproj.CopyComplete
+C:\Users\Talha\Desktop\Staj Proje\PersonelTakip\PersonelTakip\obj\Debug\net6.0-windows\PersonelTakip.dll
+C:\Users\Talha\Desktop\Staj Proje\PersonelTakip\PersonelTakip\obj\Debug\net6.0-windows\refint\PersonelTakip.dll
+C:\Users\Talha\Desktop\Staj Proje\PersonelTakip\PersonelTakip\obj\Debug\net6.0-windows\PersonelTakip.pdb
+C:\Users\Talha\Desktop\Staj Proje\PersonelTakip\PersonelTakip\obj\Debug\net6.0-windows\PersonelTakip.genruntimeconfig.cache
+C:\Users\Talha\Desktop\Staj Proje\PersonelTakip\PersonelTakip\obj\Debug\net6.0-windows\ref\PersonelTakip.dll
+C:\Users\Talha\OneDrive\Masaüstü\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\PersonelTakip.exe
+C:\Users\Talha\OneDrive\Masaüstü\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\PersonelTakip.deps.json
+C:\Users\Talha\OneDrive\Masaüstü\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\PersonelTakip.runtimeconfig.json
+C:\Users\Talha\OneDrive\Masaüstü\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\PersonelTakip.dll
+C:\Users\Talha\OneDrive\Masaüstü\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\PersonelTakip.pdb
+C:\Users\Talha\OneDrive\Masaüstü\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\Talha\OneDrive\Masaüstü\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\Talha\OneDrive\Masaüstü\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Talha\OneDrive\Masaüstü\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Talha\OneDrive\Masaüstü\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Talha\OneDrive\Masaüstü\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Talha\OneDrive\Masaüstü\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Talha\OneDrive\Masaüstü\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Talha\OneDrive\Masaüstü\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Talha\OneDrive\Masaüstü\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Talha\OneDrive\Masaüstü\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Talha\OneDrive\Masaüstü\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.SqlServer.Assessment.dll
+C:\Users\Talha\OneDrive\Masaüstü\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.SqlServer.Assessment.Types.dll
+C:\Users\Talha\OneDrive\Masaüstü\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.Data.Tools.Sql.BatchParser.dll
+C:\Users\Talha\OneDrive\Masaüstü\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\Talha\OneDrive\Masaüstü\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\Talha\OneDrive\Masaüstü\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.SqlServer.Dmf.dll
+C:\Users\Talha\OneDrive\Masaüstü\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.Assessment.dll
+C:\Users\Talha\OneDrive\Masaüstü\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.Collector.dll
+C:\Users\Talha\OneDrive\Masaüstü\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.CollectorEnum.dll
+C:\Users\Talha\OneDrive\Masaüstü\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.HadrData.dll
+C:\Users\Talha\OneDrive\Masaüstü\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.HadrModel.dll
+C:\Users\Talha\OneDrive\Masaüstü\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.RegisteredServers.dll
+C:\Users\Talha\OneDrive\Masaüstü\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\Talha\OneDrive\Masaüstü\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.SqlScriptPublish.dll
+C:\Users\Talha\OneDrive\Masaüstü\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.XEvent.dll
+C:\Users\Talha\OneDrive\Masaüstü\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.XEventDbScoped.dll
+C:\Users\Talha\OneDrive\Masaüstü\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.XEventDbScopedEnum.dll
+C:\Users\Talha\OneDrive\Masaüstü\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.SqlServer.Management.XEventEnum.dll
+C:\Users\Talha\OneDrive\Masaüstü\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.SqlServer.PolicyEnum.dll
+C:\Users\Talha\OneDrive\Masaüstü\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\Talha\OneDrive\Masaüstü\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.SqlServer.Smo.Notebook.dll
+C:\Users\Talha\OneDrive\Masaüstü\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.SqlServer.Smo.dll
+C:\Users\Talha\OneDrive\Masaüstü\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\Talha\OneDrive\Masaüstü\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\Talha\OneDrive\Masaüstü\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.SqlServer.SqlWmiManagement.dll
+C:\Users\Talha\OneDrive\Masaüstü\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Microsoft.SqlServer.WmiEnum.dll
+C:\Users\Talha\OneDrive\Masaüstü\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Talha\OneDrive\Masaüstü\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\Talha\OneDrive\Masaüstü\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Talha\OneDrive\Masaüstü\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Talha\OneDrive\Masaüstü\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\Talha\OneDrive\Masaüstü\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\Talha\OneDrive\Masaüstü\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Talha\OneDrive\Masaüstü\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Talha\OneDrive\Masaüstü\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Talha\OneDrive\Masaüstü\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Talha\OneDrive\Masaüstü\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Talha\OneDrive\Masaüstü\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Talha\OneDrive\Masaüstü\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Talha\OneDrive\Masaüstü\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Talha\OneDrive\Masaüstü\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Talha\OneDrive\Masaüstü\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Talha\OneDrive\Masaüstü\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\Talha\OneDrive\Masaüstü\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Talha\OneDrive\Masaüstü\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Talha\OneDrive\Masaüstü\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+C:\Users\Talha\OneDrive\Masaüstü\Staj Proje\PersonelTakip\PersonelTakip\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Talha\OneDrive\Masaüstü\Staj Proje\PersonelTakip\PersonelTakip\obj\Debug\net6.0-windows\PersonelTakip.csproj.AssemblyReference.cache
+C:\Users\Talha\OneDrive\Masaüstü\Staj Proje\PersonelTakip\PersonelTakip\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Talha\OneDrive\Masaüstü\Staj Proje\PersonelTakip\PersonelTakip\obj\Debug\net6.0-windows\PersonelTakip.csproj.ResolveComReference.cache
+C:\Users\Talha\OneDrive\Masaüstü\Staj Proje\PersonelTakip\PersonelTakip\obj\Debug\net6.0-windows\PersonelTakip.ForgetPW.resources
+C:\Users\Talha\OneDrive\Masaüstü\Staj Proje\PersonelTakip\PersonelTakip\obj\Debug\net6.0-windows\PersonelTakip.Login.resources
+C:\Users\Talha\OneDrive\Masaüstü\Staj Proje\PersonelTakip\PersonelTakip\obj\Debug\net6.0-windows\PersonelTakip.MainMenu.resources
+C:\Users\Talha\OneDrive\Masaüstü\Staj Proje\PersonelTakip\PersonelTakip\obj\Debug\net6.0-windows\PersonelTakip.Properties.Resources.resources
+C:\Users\Talha\OneDrive\Masaüstü\Staj Proje\PersonelTakip\PersonelTakip\obj\Debug\net6.0-windows\PersonelTakip.csproj.GenerateResource.cache
+C:\Users\Talha\OneDrive\Masaüstü\Staj Proje\PersonelTakip\PersonelTakip\obj\Debug\net6.0-windows\PersonelTakip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Talha\OneDrive\Masaüstü\Staj Proje\PersonelTakip\PersonelTakip\obj\Debug\net6.0-windows\PersonelTakip.AssemblyInfoInputs.cache
+C:\Users\Talha\OneDrive\Masaüstü\Staj Proje\PersonelTakip\PersonelTakip\obj\Debug\net6.0-windows\PersonelTakip.AssemblyInfo.cs
+C:\Users\Talha\OneDrive\Masaüstü\Staj Proje\PersonelTakip\PersonelTakip\obj\Debug\net6.0-windows\PersonelTakip.csproj.CoreCompileInputs.cache
+C:\Users\Talha\OneDrive\Masaüstü\Staj Proje\PersonelTakip\PersonelTakip\obj\Debug\net6.0-windows\PersonelTakip.csproj.CopyComplete
+C:\Users\Talha\OneDrive\Masaüstü\Staj Proje\PersonelTakip\PersonelTakip\obj\Debug\net6.0-windows\PersonelTakip.dll
+C:\Users\Talha\OneDrive\Masaüstü\Staj Proje\PersonelTakip\PersonelTakip\obj\Debug\net6.0-windows\refint\PersonelTakip.dll
+C:\Users\Talha\OneDrive\Masaüstü\Staj Proje\PersonelTakip\PersonelTakip\obj\Debug\net6.0-windows\PersonelTakip.pdb
+C:\Users\Talha\OneDrive\Masaüstü\Staj Proje\PersonelTakip\PersonelTakip\obj\Debug\net6.0-windows\PersonelTakip.genruntimeconfig.cache
+C:\Users\Talha\OneDrive\Masaüstü\Staj Proje\PersonelTakip\PersonelTakip\obj\Debug\net6.0-windows\ref\PersonelTakip.dll
